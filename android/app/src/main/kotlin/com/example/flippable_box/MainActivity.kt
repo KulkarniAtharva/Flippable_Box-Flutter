@@ -1,0 +1,6 @@
+package com.example.flippable_box
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
